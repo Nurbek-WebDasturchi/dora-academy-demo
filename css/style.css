@@ -4,6 +4,11 @@
     box-sizing: border-box;
     font-family: 'Mulish';
 }
+/* Searching BUG of scroll */
+/* Body scroll removed */
+body {
+    overflow-x: hidden;
+}
 
 
 
