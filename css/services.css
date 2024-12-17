@@ -202,3 +202,7 @@
     background-color: #2eca7f; /* Tugma ustiga kelsa rang o'zgaradi */
     transform: scale(1.1); /* Tugma kattalashadi */
 }
+/* Navbar scroll removed */
+nav {
+    overflow-x: hidden;
+}
